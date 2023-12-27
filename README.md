@@ -1,3 +1,5 @@
+[セミナー資料一覧](https://github.com/bit-part/seminar/blob/main/README.md) / 2021-08-26
+
 # MTAppjQuery でこう変わる！ MT7 の管理画面をより使いやすくする実践レシピ
 
 ## レシピ：書き易い順に並び替えた入力画面
