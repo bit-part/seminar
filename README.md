@@ -8,9 +8,18 @@ MT8 の管理画面をより使いやすく最適化するポイント
 
 ## リンク集
 
-- [MTAppjQuery ドキュメント \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery)
-- [MTAppjQuery v3 ユーザーマニュアル \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/usage)
-- [逆引き辞典 \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/tips)
+- マニュアル等
+  - [MTAppjQuery ドキュメント \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery)
+  - [MTAppjQuery v3 ユーザーマニュアル \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/usage)
+    - [インストール方法](https://support.bit-part.net/mtappjquery/v3/usage/35830)
+    - [MTAppjQuery v2 から v3 へのアップグレード](https://support.bit-part.net/mtappjquery/v3/usage/64123)
+  - [逆引き辞典 \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/tips)
+- ご購入関係
+  - [bit part 合同会社 ショップ](https://bitpart.thebase.in/)
+  - [MTAppjQuery\+MTライセンスパック \| 3rd Focus](https://3rdfocus.jp/eshop/items/APLP0001/)
+  - [Movable Type SmartSync Pack \| 3rd Focus](https://3rdfocus.jp/eshop/items/COLS0003/)
+  - [Movable Type SmartSync Pack \(MTライセンス無し\) \| 3rd Focus](https://3rdfocus.jp/eshop/items/COLS0006/)
+  - [エンタープライズに最適な高機能CMS Movable Type Premium](https://www.sixapart.jp/movabletype/solutions/mtpremium.html)
 
 ## レシピ：すっきり幅広入力欄
 
