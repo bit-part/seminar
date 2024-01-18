@@ -14,6 +14,8 @@ MT8 の管理画面をより使いやすく最適化するポイント
     - [インストール方法](https://support.bit-part.net/mtappjquery/v3/usage/35830)
     - [MTAppjQuery v2 から v3 へのアップグレード](https://support.bit-part.net/mtappjquery/v3/usage/64123)
   - [逆引き辞典 \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/tips)
+  - [Movable Type Data API v6](https://movabletype.github.io/mt-docs-data-api-reference/v6.html)
+  - [TinyMCE 6 Documentation \| TinyMCE Documentation](https://www.tiny.cloud/docs/tinymce/latest/)
 - ご購入関係
   - [bit part 合同会社 ショップ](https://bitpart.thebase.in/)
   - [MTAppjQuery\+MTライセンスパック \| 3rd Focus](https://3rdfocus.jp/eshop/items/APLP0001/)
