@@ -6,6 +6,12 @@
 
 MT8 の管理画面をより使いやすく最適化するポイント
 
+## リンク集
+
+- [MTAppjQuery ドキュメント \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery)
+- [MTAppjQuery v3 ユーザーマニュアル \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/usage)
+- [逆引き辞典 \| MTAppjQuery サポートサイト](https://support.bit-part.net/mtappjquery/v3/tips)
+
 ## レシピ：すっきり幅広入力欄
 
 ![](images/wide.gif)
